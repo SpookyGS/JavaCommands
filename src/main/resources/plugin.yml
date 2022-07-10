@@ -1,0 +1,6 @@
+main: dev.exponente.JavaCommands
+name: JavaCommands
+version: ${project.version}
+author: ExponenteDevs
+website: https://www.github.com/ExponenteDevs
+description: Simple commands for your server
