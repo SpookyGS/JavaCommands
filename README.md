@@ -1,2 +1,4 @@
-# JavaCommands
-Simple commands
+#### README.md
+```
+Simple commands for your Minecraft Server
+```
