@@ -26,7 +26,7 @@ public class JavaCommands extends JavaPlugin {
         getServer().getConsoleSender().sendMessage(CC.translate("&7"));
         getServer().getConsoleSender().sendMessage(CC.translate("&a Enabling your plugin"));
         getServer().getConsoleSender().sendMessage(CC.translate("&7"));
-        getServer().getConsoleSender().sendMessage(CC.translate("&a Link: github.com/ExponenteDevs"));
+        getServer().getConsoleSender().sendMessage(CC.translate("&a Link: github.com/SpookyGS"));
         getServer().getConsoleSender().sendMessage(CC.translate("&7"));
     }
 
@@ -35,7 +35,7 @@ public class JavaCommands extends JavaPlugin {
         getServer().getConsoleSender().sendMessage(CC.translate("&7"));
         getServer().getConsoleSender().sendMessage(CC.translate("&c Disabling your plugin"));
         getServer().getConsoleSender().sendMessage(CC.translate("&7"));
-        getServer().getConsoleSender().sendMessage(CC.translate("&c Link: github.com/ExponenteDevs"));
+        getServer().getConsoleSender().sendMessage(CC.translate("&c Link: github.com/SpookyGS"));
         getServer().getConsoleSender().sendMessage(CC.translate("&7"));
     }
 }
