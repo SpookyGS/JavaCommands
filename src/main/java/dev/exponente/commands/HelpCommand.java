@@ -16,7 +16,7 @@ public class HelpCommand extends BaseCommand {
         return false;
     }
 
-    @Command(name = "java")
+    @Command(name = "help")
     @Override
     public void onCommand(CommandArgs cmd) {
         Player player = cmd.getPlayer();
